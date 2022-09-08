@@ -11,4 +11,8 @@ public class ControllerHello {
 	  System.out.println("hello from GitHub");
 	  return "hello world";
   }
+	
+	public String HelloWorld() {
+		return "one more statement";
+	}
 }
